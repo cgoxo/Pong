@@ -59,7 +59,7 @@ clock = pygame.time.Clock()
 screen_width = 1280
 screen_height = 720
 screen = pygame.display.set_mode((screen_width,screen_height))
-pygame.display.set_caption('Pong!')
+pygame.display.set_caption('Pong 1972!')
 
 # Color
 light_grey= (200,200,200)
