@@ -1,5 +1,5 @@
 # Pong
-Pong game created using pygame module of python
+Pong game created using pygame module of python @ same path
 to run this file execute in command line 
 
 ```pip3 install requirements.txt```
