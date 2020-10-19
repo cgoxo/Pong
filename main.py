@@ -63,7 +63,7 @@ pygame.display.set_caption('Pong 1972!')
 
 # Color
 light_grey= (200,200,200)
-bg_color= pygame.Color(6,50,89)
+bg_color= pygame.Color(6,51,89)
 
 ball= pygame.Rect(screen_width/2-15,screen_height/2-15,30,30)
 player= pygame.Rect(screen_width-20,screen_height/2- 70, 10,140)
