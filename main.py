@@ -1,4 +1,3 @@
-# tshirt to leke rahenge
 import pygame, sys, random
 
 def ball_animation():
